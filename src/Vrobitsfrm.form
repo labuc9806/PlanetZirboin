@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="166" max="-2" attributes="0"/>
+                      <Component id="ttllbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="vrobitlbl" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                              <Component id="vrobittxt" min="-2" pref="76" max="-2" attributes="0"/>
+                              <EmptySpace pref="7" max="32767" attributes="0"/>
+                              <Component id="calculatebtn" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="drobzitlbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="clickwickslbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="clickwicktxt" pref="24" max="32767" attributes="0"/>
+                                          <Component id="drobzittxt" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="gazoontightlbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="frazointlbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="blointointslbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="frazointtxt" max="32767" attributes="0"/>
+                                          <Component id="gazoontighttxt" max="32767" attributes="0"/>
+                                          <Component id="blointointtxt" alignment="1" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="remainlbld" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="remaintxtd" min="-2" pref="23" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="remainlblg" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="remaintxtg" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="remainlblf" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="remaintxtf" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="remainlblb" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="remaintxtb" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="remainlblc" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="remaintxtc" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="ttllbl" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="vrobitlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="vrobittxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="calculatebtn" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="drobzitlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="drobzittxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remainlbld" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remaintxtd" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clickwickslbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clickwicktxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remainlblc" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remaintxtc" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="gazoontightlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="gazoontighttxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remainlblg" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remaintxtg" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="frazointlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="frazointtxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remainlblf" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remaintxtf" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="blointointslbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="blointointtxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remainlblb" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="remaintxtb" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="23" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="vrobitlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Please enter the number of vrobits : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ttllbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Zirboin Financial"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="vrobittxt">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="vrobittxtActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="drobzitlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Drobzits : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clickwickslbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clickwicks : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gazoontightlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gazoontights : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="frazointlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Frazoints : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="blointointslbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Blointoints : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="drobzittxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="clickwicktxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="gazoontighttxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="frazointtxt">
+    </Component>
+    <Component class="javax.swing.JTextField" name="blointointtxt">
+    </Component>
+    <Component class="javax.swing.JLabel" name="remainlbld">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remaining vrobits : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="remaintxtd">
+    </Component>
+    <Component class="javax.swing.JButton" name="calculatebtn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Calculate"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="calculatebtnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="remainlblc">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remaining vrobits : "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="remainlblg">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remaining vrobits :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="remainlblf">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remaining vrobits :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="remainlblb">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Remaining vrobits :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="remaintxtc">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="remaintxtcActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="remaintxtg">
+    </Component>
+    <Component class="javax.swing.JTextField" name="remaintxtf">
+    </Component>
+    <Component class="javax.swing.JTextField" name="remaintxtb">
+    </Component>
+  </SubComponents>
+</Form>
